@@ -8,6 +8,8 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt install apt-transport-https
 sudo apt-add-repository universe
+// If you're familiar with nginx
+sudo apt-get install nginx-full
 ```
 
 ### Domain of your server and set up DNS
